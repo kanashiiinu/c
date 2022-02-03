@@ -5,6 +5,7 @@ int main()
     putchar('-');
     puts("Enter A\n");
     char inputChar = getchar();
+
     //回车才算输入，所以输入很多也只取第一个字符，然后后续算下一次输入。
     putchar('\n');
     printf("%c\n", inputChar);
