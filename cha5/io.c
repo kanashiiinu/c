@@ -10,6 +10,7 @@ int main()
     printf("%c\n", inputChar);
     printf("input a string\n");
     char inputStr[30]; 
+
     // gets可能缓冲区溢出c11弃用
     // gets_s不知道为什么用不了
     fgets(inputStr,20,stdin);
