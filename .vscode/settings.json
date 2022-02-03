@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "*.html": "html",
+        "stdio.h": "c",
+        "conio.h": "c",
+        "stdbool.h": "c",
+        "process.h": "c",
+        "xlocale": "c",
+        "xlocnum": "c",
+        "xutility": "c",
+        "cstring": "c",
+        "string.h": "c"
+    }
+}
