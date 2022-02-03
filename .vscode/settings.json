@@ -10,6 +10,7 @@
         "xlocnum": "c",
         "xutility": "c",
         "cstring": "c",
-        "string.h": "c"
+        "string.h": "c",
+        "winsock.h": "c"
     }
 }
