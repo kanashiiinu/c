@@ -1,0 +1,17 @@
+[
+{
+  "directory": "D:/c_family/c/learnC/project/cmakePro/build",
+  "command": "D:\\compiler\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\project.dir\\main.cpp.obj -c D:\\c_family\\c\\learnC\\project\\cmakePro\\main.cpp",
+  "file": "D:/c_family/c/learnC/project/cmakePro/main.cpp"
+},
+{
+  "directory": "D:/c_family/c/learnC/project/cmakePro/build",
+  "command": "D:\\compiler\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\proStruct.dir\\main.cpp.obj -c D:\\c_family\\c\\learnC\\project\\cmakePro\\main.cpp",
+  "file": "D:/c_family/c/learnC/project/cmakePro/main.cpp"
+},
+{
+  "directory": "D:/c_family/c/learnC/project/cmakePro/build",
+  "command": "D:\\compiler\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -o CMakeFiles\\proStruct.dir\\source.cpp.obj -c D:\\c_family\\c\\learnC\\project\\cmakePro\\source.cpp",
+  "file": "D:/c_family/c/learnC/project/cmakePro/source.cpp"
+}
+]

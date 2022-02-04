@@ -1,0 +1,3 @@
+D:\CMake\cmake-3.22.1-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\proStruct.dir/objects.a
+D:\compiler\mingw64\bin\ar.exe qc CMakeFiles\proStruct.dir/objects.a @CMakeFiles\proStruct.dir\objects1.rsp
+D:\compiler\mingw64\bin\x86_64-w64-mingw32-g++.exe -g -Wl,--whole-archive CMakeFiles\proStruct.dir/objects.a -Wl,--no-whole-archive -o proStruct.exe -Wl,--out-implib,libproStruct.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\proStruct.dir\linklibs.rsp
